@@ -77,8 +77,6 @@ python main.py
 
 ## 🖼️ Screenshots
 
-Add screenshots of your application below:
-
 ### 🔐 Login Screen
 <img width="1366" height="768" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/69ab547a-6de5-417a-86d2-6debd9ed6830" />
 
